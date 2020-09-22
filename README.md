@@ -22,4 +22,4 @@ Holaa :)... Soy **Adrián**, un estudiante en Informática y me encanta programa
 <!---________________________________________________________________________________________________________________________--->
 
 
-Recuerda seguirme ^^
+~~Recuerda seguirme ^^~~
