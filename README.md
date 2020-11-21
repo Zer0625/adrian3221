@@ -9,4 +9,4 @@ Actualmente tengo un bot de Discord llamado [Kakashi](https://discordapp.com/oau
 
 #### Discord: Adrián.#6708
 
-~~No olvides seguirme :P~~
+###### *~~No olvides seguirme :P~~*
